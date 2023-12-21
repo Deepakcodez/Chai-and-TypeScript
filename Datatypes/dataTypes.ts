@@ -12,3 +12,7 @@ let bool:boolean = true;
 console.log('>>>>>>>>>>>', bool)
 
 
+// union variable  --> data should be string or number
+let data:String | Number;
+// data = "hello universe"
+data = 45;
